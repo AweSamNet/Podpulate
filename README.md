@@ -23,6 +23,7 @@ Podpulate is a barebones PowerShell module which facilitates building and updati
 1. Follow step 1-2 above.
 1. Skip steps 3-4 above.
 1. In PowerShell run the following command 
+
     ```
     Podpulate.ps1' -ftpUrl "www.yoursite.com" -ftpUser "yourFtpUser" -ftpPassword "password" -startPath "path/from/root/to/podcasts"
     ```
