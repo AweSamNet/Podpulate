@@ -28,7 +28,7 @@ Podpulate is a barebones PowerShell module which facilitates building and updati
     ```
     Podpulate.ps1' -ftpUrl "www.yoursite.com" -ftpUser "yourFtpUser" -ftpPassword "password" -startPath "path/from/root/to/podcasts"
     ```
-1. Follow 5+ above
+1. Follow steps 5+ above
 
 ### Mac/Linux Users
 1. Download and install [Pash](https://github.com/Pash-Project/Pash)
