@@ -10,4 +10,4 @@ if (Get-Module -Name Podpulate) {
 
 Import-Module (Resolve-Path('./Modules/Podpulate.psm1')) -ArgumentList $ftpUrl, $ftpUser, $ftpPassword
 
-Add-Podpulate -startPath $startPath
+Podpulate -startPath $startPath
