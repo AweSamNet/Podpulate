@@ -20,6 +20,7 @@ Podpulate is a barebones PowerShell module which facilitates building and updati
 1. Upload to your server.  (I had originally thought to do this automatically, but then I thought users might be mad when it overwrites existing files :/ )
 
 **Advanced users:** 
+
 1. Follow step 1-2 above.
 1. Skip steps 3-4 above.
 1. In PowerShell run the following command 
