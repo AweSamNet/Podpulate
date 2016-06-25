@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0">
+  <channel>
+    <title></title>
+    <link></link>
+    <description></description>
+    <language>en</language>
+    <copyright>&#x2117; &amp; &#xA9; </copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author></itunes:author>
+    <itunes:summary></itunes:summary>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href=""/>
+    <itunes:category text="">
+      <itunes:category text=""/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <image>
+      <url></url>
+      <title></title>
+      <link></link>
+    </image>
+    <item>
+      <title></title>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <description></description>
+      <link></link>
+      <enclosure url="" length="" type="audio/mpeg"/>
+      <guid>template</guid>
+      <pubDate>Sun, 19 Jun 2016 11:00:00 -0500</pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+  </channel>
+</rss>
